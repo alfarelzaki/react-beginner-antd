@@ -38,3 +38,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* untuk melakukan styling pada class card */
+.site-card-wrapper {
+  background: #ececec;
+  padding: 30px;
+}
